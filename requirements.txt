@@ -1,0 +1,4 @@
+pypdf #PDF Scanner 
+langchain-community # LLM
+chromadb # Vector storage
+pytest # Unit Test
